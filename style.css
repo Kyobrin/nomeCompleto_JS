@@ -1,0 +1,35 @@
+body {
+    background-color: darkcyan;
+}
+header{
+    font: normal 20pt Arial;
+    color: aliceblue;
+    text-align: center ;
+}
+
+form {
+    background: whitesmoke;
+    padding: 15px;
+    width: 500px;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 5%;
+}
+.nome{
+    font: normal 18pt Arial;
+}
+
+.nome_input{
+    border-radius: 10px;
+    width: 200px;
+    height: 20px;
+    font-size: 15pt;
+}
+#enviar{
+    display: block;
+    margin: auto;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    background: transparent;
+}   
